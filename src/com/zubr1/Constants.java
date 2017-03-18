@@ -4,7 +4,6 @@ package com.zubr1;
  * Class for holding static strings
  * @author Michał Cendrowski (zubr)
  * @version 1.0
- * @value MENU
  */
 class Constants {
     /**
