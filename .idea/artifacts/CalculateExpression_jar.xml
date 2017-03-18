@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CalculateExpression:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CalculateExpression_jar</output-path>
+    <root id="archive" name="CalculateExpression.jar">
+      <element id="module-output" name="CalculateExpression" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mxparser-v.3.0.0-bin-only/mxparser-bin-java-jdk.1.8/mxparser.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
